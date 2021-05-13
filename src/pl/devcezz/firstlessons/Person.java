@@ -1,4 +1,4 @@
-import java.util.Random;
+package pl.devcezz.firstlessons;
 
 public class Person {
 
@@ -27,7 +27,7 @@ public class Person {
         john.greet();
         System.out.println("There are " + Person.countPeople() + " people.");
 
-        // Person.greet();
+        // pl.devcezz.firstlessons.Person.greet();
         Person frank = new Person("Frank");
         frank.greet();
         System.out.println("There are " + Person.countPeople() + " people.");

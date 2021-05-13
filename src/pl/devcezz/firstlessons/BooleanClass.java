@@ -1,3 +1,5 @@
+package pl.devcezz.firstlessons;
+
 public class BooleanClass {
 
     public static void main(String[] args) {

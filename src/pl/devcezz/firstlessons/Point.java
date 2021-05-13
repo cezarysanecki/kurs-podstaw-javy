@@ -1,3 +1,5 @@
+package pl.devcezz.firstlessons;
+
 public class Point {
 
     final int x;

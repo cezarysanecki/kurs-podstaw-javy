@@ -1,3 +1,5 @@
+package pl.devcezz.firstlessons;
+
 public class ForClass {
 
     public static void main(String[] args) {

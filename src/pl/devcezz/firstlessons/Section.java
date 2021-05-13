@@ -1,3 +1,5 @@
+package pl.devcezz.firstlessons;
+
 public class Section {
 
     final Point p1;
