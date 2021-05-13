@@ -1,3 +1,5 @@
+package pl.devcezz.firstlessons;
+
 import java.util.Random;
 
 public class FirstClass {
@@ -23,6 +25,6 @@ public class FirstClass {
     }
 
     public static void printPoint(Point point, String name) {
-        System.out.println("Point " + name + " [x=" + point.x + ", y=" + point.y + "]");
+        System.out.println("pl.devcezz.firstlessons.Point " + name + " [x=" + point.x + ", y=" + point.y + "]");
     }
 }

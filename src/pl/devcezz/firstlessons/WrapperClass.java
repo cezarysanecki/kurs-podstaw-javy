@@ -1,3 +1,5 @@
+package pl.devcezz.firstlessons;
+
 import java.util.Random;
 
 public class WrapperClass {
