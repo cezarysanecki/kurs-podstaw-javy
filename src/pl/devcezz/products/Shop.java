@@ -1,4 +1,4 @@
-package products;
+package pl.devcezz.products;
 
 public class Shop {
 
